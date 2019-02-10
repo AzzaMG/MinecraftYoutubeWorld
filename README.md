@@ -1,5 +1,5 @@
 # Minecraft Youtube World
-This is snapshots of the Minecraft world we built during live streams together
+This is snapshots of the Minecraft world we built during live streams together on [AzzaFortysix Live Streams](https://YouTube.com/AzzaFortysix)
 
 ## Where do I get the world?
  - You can download it from the [releases section](https://github.com/ash47/MinecraftYoutubeWorld/releases)
