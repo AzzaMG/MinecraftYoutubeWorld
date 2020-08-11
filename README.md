@@ -3,6 +3,7 @@ This is snapshots of the Minecraft world we built during live streams together o
 
 ## Where do I get the world?
  - You can download it from the [releases section](https://github.com/ash47/MinecraftYoutubeWorld/releases)
+ - Our newer worlds have full source control and can be downloaded via the download zip / clone options on the main page of the repo.
 
 ## How do I use it?
  - You need the Java version of Minecraft
