@@ -1,0 +1,22 @@
+{
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2020-07-15 19:27:42 +1000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-07-15 19:27:42 +1000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-07-15 19:24:27 +1000",
+      "minecraft:beach": "2020-07-15 19:24:48 +1000"
+    },
+    "done": false
+  },
+  "DataVersion": 2567
+}
