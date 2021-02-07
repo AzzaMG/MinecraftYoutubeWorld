@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2021-02-04 19:03:02 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-01-29 17:30:27 +1100"
@@ -254,6 +260,12 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting": {
     "criteria": {
       "has_gold_ore": "2021-01-12 23:29:12 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2021-02-04 19:03:02 +1100"
     },
     "done": true
   },
@@ -891,6 +903,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2021-02-04 18:28:44 +1100",
       "minecraft:skeleton": "2021-01-12 21:10:47 +1100",
       "minecraft:hoglin": "2021-01-29 17:55:13 +1100",
       "minecraft:magma_cube": "2021-01-25 22:06:15 +1100",
@@ -916,9 +929,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2021-02-04 19:03:02 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2021-01-12 23:43:01 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2021-02-04 18:18:56 +1100"
     },
     "done": true
   },
@@ -961,6 +986,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2021-01-12 22:56:50 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-02-04 18:29:02 +1100"
     },
     "done": true
   },
@@ -1045,6 +1076,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-01-12 23:49:08 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2021-02-04 18:15:10 +1100"
     },
     "done": true
   },
@@ -1291,6 +1328,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2021-01-25 21:10:41 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2021-02-04 18:15:10 +1100"
     },
     "done": true
   },
@@ -1600,8 +1643,10 @@
       "minecraft:jungle_edge": "2021-01-29 19:45:24 +1100",
       "minecraft:forest": "2021-01-25 21:16:48 +1100",
       "minecraft:mountains": "2021-01-29 19:51:06 +1100",
+      "minecraft:taiga": "2021-02-04 19:16:21 +1100",
       "minecraft:desert_hills": "2021-01-25 21:19:55 +1100",
       "minecraft:deep_cold_ocean": "2021-01-25 20:55:51 +1100",
+      "minecraft:taiga_hills": "2021-02-04 19:16:28 +1100",
       "minecraft:desert": "2021-01-25 21:19:16 +1100",
       "minecraft:deep_frozen_ocean": "2021-01-12 22:49:49 +1100",
       "minecraft:jungle": "2021-01-12 20:52:03 +1100",
@@ -1610,6 +1655,8 @@
       "minecraft:beach": "2021-01-12 21:21:28 +1100",
       "minecraft:dark_forest": "2021-01-25 21:11:45 +1100",
       "minecraft:river": "2021-01-12 22:29:44 +1100",
+      "minecraft:lukewarm_ocean": "2021-02-04 19:06:14 +1100",
+      "minecraft:wooded_mountains": "2021-02-04 19:18:32 +1100",
       "minecraft:wooded_hills": "2021-01-25 21:18:07 +1100",
       "minecraft:swamp": "2021-01-25 21:13:30 +1100",
       "minecraft:plains": "2021-01-12 22:56:23 +1100"

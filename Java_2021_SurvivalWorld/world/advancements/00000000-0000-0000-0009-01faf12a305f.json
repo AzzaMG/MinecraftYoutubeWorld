@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2021-02-04 17:58:21 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-01-25 21:04:56 +1100"
@@ -44,6 +50,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2021-01-25 21:10:04 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_blackstone_bricks": "2021-02-04 19:49:12 +1100"
     },
     "done": true
   },
@@ -68,6 +80,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2021-01-25 21:10:04 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-02-04 19:49:12 +1100"
     },
     "done": true
   },
@@ -107,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2021-02-04 17:58:21 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-01-25 20:50:27 +1100"
@@ -143,9 +167,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-02-04 17:58:21 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-25 20:47:58 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-02-04 17:58:21 +1100"
     },
     "done": true
   },
@@ -191,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-02-04 17:58:21 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2021-01-25 21:04:57 +1100"
@@ -206,6 +248,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2021-01-29 17:47:45 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-02-04 19:49:12 +1100"
     },
     "done": true
   },
@@ -428,6 +476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-02-04 17:58:21 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-25 20:47:58 +1100"
@@ -644,6 +698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-02-04 17:58:21 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2021-01-25 20:44:25 +1100"
@@ -659,6 +719,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2021-01-29 18:01:09 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-02-04 19:49:12 +1100"
     },
     "done": true
   },
@@ -686,6 +752,7 @@
       "minecraft:ghast": "2021-01-29 18:17:49 +1100",
       "minecraft:magma_cube": "2021-01-25 22:06:34 +1100",
       "minecraft:spider": "2021-01-25 21:12:56 +1100",
+      "minecraft:creeper": "2021-02-04 18:59:40 +1100",
       "minecraft:phantom": "2021-01-29 17:02:22 +1100",
       "minecraft:enderman": "2021-01-25 21:41:40 +1100",
       "minecraft:zombie": "2021-01-25 20:59:23 +1100",
@@ -802,6 +869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-02-04 19:49:12 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2021-01-25 21:03:03 +1100"
@@ -874,6 +947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-02-04 17:58:21 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2021-01-29 17:36:36 +1100"
@@ -934,9 +1013,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2021-02-04 17:58:21 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2021-01-25 21:04:53 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-02-04 19:49:12 +1100"
     },
     "done": true
   },
@@ -949,6 +1040,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2021-01-29 17:36:36 +1100"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2021-02-04 18:37:44 +1100"
     },
     "done": true
   },
@@ -967,6 +1064,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2021-01-25 20:50:27 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2021-02-04 18:04:05 +1100"
     },
     "done": true
   },
@@ -1084,9 +1187,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2021-02-04 18:04:05 +1100"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2021-01-25 21:10:09 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2021-02-04 17:58:21 +1100"
     },
     "done": true
   },
@@ -1210,19 +1325,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2021-02-04 17:58:21 +1100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2021-01-25 20:54:19 +1100",
+      "minecraft:jungle_edge": "2021-02-04 18:52:29 +1100",
       "minecraft:forest": "2021-01-25 21:11:52 +1100",
       "minecraft:mountains": "2021-01-29 17:13:12 +1100",
+      "minecraft:taiga": "2021-02-04 19:16:22 +1100",
       "minecraft:deep_cold_ocean": "2021-01-25 20:55:58 +1100",
+      "minecraft:taiga_hills": "2021-02-04 19:16:30 +1100",
       "minecraft:deep_frozen_ocean": "2021-01-25 20:55:01 +1100",
       "minecraft:jungle": "2021-01-12 22:26:46 +1100",
+      "minecraft:birch_forest": "2021-02-04 19:07:05 +1100",
       "minecraft:jungle_hills": "2021-01-25 20:52:53 +1100",
       "minecraft:bamboo_jungle": "2021-01-29 17:34:35 +1100",
+      "minecraft:warm_ocean": "2021-02-04 18:16:04 +1100",
+      "minecraft:deep_lukewarm_ocean": "2021-02-04 18:15:12 +1100",
       "minecraft:beach": "2021-01-25 20:44:59 +1100",
       "minecraft:dark_forest": "2021-01-25 21:12:13 +1100",
       "minecraft:river": "2021-01-25 20:51:42 +1100",
+      "minecraft:lukewarm_ocean": "2021-02-04 18:15:08 +1100",
+      "minecraft:birch_forest_hills": "2021-02-04 19:10:59 +1100",
+      "minecraft:wooded_mountains": "2021-02-04 19:18:40 +1100",
+      "minecraft:wooded_hills": "2021-02-04 19:04:06 +1100",
       "minecraft:swamp": "2021-01-25 21:13:38 +1100",
       "minecraft:plains": "2021-01-25 20:58:58 +1100"
     },
@@ -1282,6 +1413,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2021-02-04 17:58:21 +1100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "melon_stem": "2021-02-04 19:38:51 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2021-01-25 20:46:24 +1100"
@@ -1297,6 +1440,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2021-01-29 18:17:19 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2021-02-04 17:58:21 +1100"
     },
     "done": true
   },
@@ -1390,6 +1539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2021-02-04 17:58:21 +1100"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2021-01-25 22:00:46 +1100",
@@ -1437,6 +1592,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2021-01-25 21:04:56 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2021-02-04 19:49:12 +1100"
     },
     "done": true
   },
