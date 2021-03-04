@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-03-04 18:21:10 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2021-01-25 21:03:08 +1100"
@@ -242,6 +248,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2021-01-25 21:13:38 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2021-03-04 19:07:10 +1100"
     },
     "done": true
   },
@@ -553,6 +565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-03-04 19:07:10 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2021-01-25 21:52:37 +1100"
@@ -589,6 +607,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2021-01-25 22:05:36 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2021-03-04 19:11:31 +1100"
     },
     "done": true
   },
@@ -813,6 +837,7 @@
       "minecraft:skeleton": "2021-01-25 21:19:20 +1100",
       "minecraft:spider": "2021-01-25 21:16:40 +1100",
       "minecraft:creeper": "2021-01-25 21:17:19 +1100",
+      "minecraft:phantom": "2021-03-04 18:28:54 +1100",
       "minecraft:zombie": "2021-01-25 21:15:14 +1100"
     },
     "done": false
@@ -826,6 +851,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2021-01-25 22:07:58 +1100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-03-04 18:21:10 +1100"
     },
     "done": true
   },
@@ -883,6 +914,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2021-03-04 18:21:11 +1100"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-01-25 23:30:59 +1100"
@@ -898,6 +935,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2021-01-25 21:37:17 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2021-03-04 18:15:04 +1100"
     },
     "done": true
   },

@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2021-03-04 20:15:56 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2021-02-04 18:54:00 +1100"
@@ -259,8 +265,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2021-03-04 20:20:28 +1100",
       "sweet_berries": "2021-02-04 19:25:06 +1100",
       "potato": "2021-01-29 19:16:43 +1100",
+      "pumpkin_pie": "2021-03-04 19:34:33 +1100",
       "rotten_flesh": "2021-01-25 22:45:02 +1100",
       "cookie": "2021-01-29 19:20:48 +1100",
       "melon_slice": "2021-01-25 23:27:00 +1100",
@@ -412,6 +420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2021-03-04 19:06:09 +1100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-29 17:19:18 +1100"
@@ -481,6 +495,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2021-01-25 22:44:39 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-03-04 20:15:56 +1100"
     },
     "done": true
   },
